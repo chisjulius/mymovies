@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.movies{
+  margin-top: 60px;
+}
+
+.nav-list{
+  margin-left: 70px;
+}
+ 
+.active{
+  color: blue;
+}
+
+.main-nav:hover{
+  color: blue;
+}
